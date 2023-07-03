@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lasha Zibzibadze</h1>
 <h3 align="center">A highly motivated Computer Science student</h3>
 
-- 🌱 I’m currently learning **Many things.**
+- 🌱 I’m currently learning **many things.**
 
 - 📫 How to reach me **lashazibzibadze09@gmail.com**
 
