@@ -1,6 +1,7 @@
 # 💫 About Me:
 👋 Welcome to my page !<br><br>I'm a techie from Georgia 🇬🇪, currently living in New York, USA 🇺🇸<br><br>👨🏽‍💻 Computer Science student ;<br>📚 Mainly focusing on C++ ;<br>🛠️ Working on solo, college projects ;<br> <br>Hobbies ("Gaming", "Coding", "Sports") ;
 
+![giphy](https://github.com/lashazibzibadze/lashazibzibadze/assets/101782753/88b7c55c-e6aa-4582-b95f-4eb4256f11a9)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/pxhwKFQ3sh) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lashazibzibadzee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lasha-zibzibadze-bb39a6159) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lasha0309) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@lasha-qr1nz) 
@@ -15,7 +16,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+![giphy (1)](https://github.com/lashazibzibadze/lashazibzibadze/assets/101782753/7d66605a-3598-49e8-8186-c6438cb6a07f)
 ---
 [![](https://visitcount.itsvg.in/api?id=lashazibzibadze&icon=5&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
