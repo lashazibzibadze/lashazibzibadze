@@ -1,5 +1,5 @@
 # 👋 Welcome to my page !
-<br><br>I'm a techie from Georgia 🇬🇪, currently living in New York, USA 🇺🇸<br><br>👨🏽‍💻 Computer Science student ;<br>📚 Mainly focusing on C++ ;<br>🛠️ Working on solo, college projects ;<br> <br>Hobbies ("Gaming", "Coding", "Sports") ;
+<br><br># I'm a techie from Georgia 🇬🇪, currently living in New York, USA 🇺🇸<br><br>👨🏽‍💻 Computer Science student ;<br>📚 Mainly focusing on C++ ;<br>🛠️ Working on solo, college projects ;<br> <br>🧶 Hobbies ("Gaming", "Coding", "Sports") ;
 
 ![giphy](https://github.com/lashazibzibadze/lashazibzibadze/assets/101782753/88b7c55c-e6aa-4582-b95f-4eb4256f11a9)
 
