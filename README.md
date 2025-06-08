@@ -1,5 +1,9 @@
 # 👋 Welcome to my page !
-<br><br># I'm a techie from Georgia 🇬🇪, currently living in New York, USA 🇺🇸<br><br>👨🏽‍💻 Computer Science student ;<br>📚 Mainly focusing on C++ ;<br>🛠️ Working on solo, college projects ;<br> <br>🧶 Hobbies ("Gaming", "Coding", "Sports") ;
+As a Computer Science student at Hunter College (CUNY) graduating in May 2025, I’m passionate about building efficient, user-focused technology solutions. I specialize in full-stack development, database systems, and data-driven applications. My technical toolkit includes C++, Python, SQL, JavaScript, React, and TypeScript, with a strong foundation in algorithms, data structures, and software design.
+
+I’m currently leading FairNest, a capstone project that ranks NYC real estate listings by fairness using a custom algorithm. I built the front-end with React and Tailwind CSS and integrated web-scraped housing data into a dynamic and responsive UI. My experience also includes building a high-performance database for HetioNet to deliver biological query results instantly, and conducting a data science research project exploring NYC's migration and economic shifts post-COVID.
+
+I enjoy solving complex problems with clean, scalable code and collaborating in agile teams to deliver meaningful impact. I'm actively looking for internship or full-time opportunities in software engineering, data science, or backend development where I can grow and contribute.
 
 ![giphy](https://github.com/lashazibzibadze/lashazibzibadze/assets/101782753/88b7c55c-e6aa-4582-b95f-4eb4256f11a9)
 
